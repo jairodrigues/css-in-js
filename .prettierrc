@@ -1,0 +1,9 @@
+{
+	
+	"singleQuote": true,
+	"jsxBracketSameLine": false,
+	"trailingComma": "es5",
+	"useTabs": true,
+    "bracketSpacing": true,
+    "parser": "babylon"
+}
